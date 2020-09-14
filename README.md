@@ -10,8 +10,8 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; C# 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS
+- 💻 &nbsp; C# | ASP.NET
+- 🌐 &nbsp; HTML | CSS | SASS | JavaScript | Bootstrap | Node.js | ReactJS
 - 🛢 &nbsp; MSSQL
 - 🔧 &nbsp; Git | Github | Sourcetree  | Bitbucket
 
