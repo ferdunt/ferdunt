@@ -23,7 +23,7 @@
 
 <p align="center">
 <a href="https://ferdunt.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-www.ferdunt.github.io-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/guisbertfernando/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Fernando%20Guisbert%20Segales-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/guisbertfernando/" target='_blank'><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Fernando%20Guisbert%20Segales-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:guisbertfernando@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-guisbertfernando@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
