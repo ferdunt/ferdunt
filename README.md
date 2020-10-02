@@ -14,7 +14,6 @@
 - 🌐 &nbsp; HTML | CSS | SASS | JavaScript | Bootstrap | Node.js | ReactJS
 - 🛢 &nbsp; MSSQL
 - 🔧 &nbsp; Git | Github | Sourcetree  | Bitbucket
-<br/>
 
 <h3>⚔ Codewars</h3>
 <a href="https://www.codewars.com/users/ferdunt"><img alt="CodeWars profile" src="https://www.codewars.com/users/ferdunt/badges/large"/></a>
